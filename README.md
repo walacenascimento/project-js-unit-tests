@@ -9,7 +9,7 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
 
-# Projeto Projeto JS-UNIT-TESTS
+# Projeto JS-UNIT-TESTS
   `Olá, seja bem vindo(a) ao projeto-js-unit-tests!`
 
 ### DESCRIÇÃO:
